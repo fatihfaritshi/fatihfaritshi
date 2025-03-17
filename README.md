@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 How to reach me: fatihxfaritsi@gmail.com
-🌐 Check out my projects and let's collaborate!
+
+Check out my projects and let's collaborate!✨
 
 <img src="https://raw.githubusercontent.com/fatihfaritshi/fatihfaritshi/main/LABEL.png" width="100%" alt="GitHub Banner">
 
