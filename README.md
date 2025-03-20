@@ -20,6 +20,7 @@ Check out my projects and let's collaborate!✨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihfaritshi&show_icons=true&theme=tokyonight)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
+
 
 
