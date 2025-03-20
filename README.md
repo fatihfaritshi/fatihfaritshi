@@ -18,3 +18,6 @@ Check out my projects and let's collaborate!✨
 
 <img src="https://raw.githubusercontent.com/fatihfaritshi/fatihfaritshi/main/LABEL.png" width="100%" alt="GitHub Banner">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihfaritshi&show_icons=true&theme=tokyonight)
+
+
