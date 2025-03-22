@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> **Fatih here,** 
 📫 How to reach me: fatihxfaritsi@gmail.com  
 Check out my projects and let's collaborate!✨  
 
