@@ -22,6 +22,8 @@ Check out my projects and let's collaborate!✨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihfaritshi&show_icons=true&theme=tokyonight) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihfaritshi&layout=compact&theme=radical)
+
 📜 Quote
 > "Everyone will get their golden opportunity. Just keep quiet and keep doing your job."  
 > — **Ko Gyeom (Melo Movie)**
