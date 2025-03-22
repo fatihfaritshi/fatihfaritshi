@@ -20,11 +20,11 @@ Check out my projects and let's collaborate!✨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihfaritshi&show_icons=true&theme=tokyonight) 
 
-📜 Favorite Quote
-> "Semua orang akan dapat peluang emas mereka. Diam saja dan teruslah lakukan pekerjaanmu."  
-> — **Ko Gyeom**
+📜 Quote
+> "Everyone will get their golden opportunity. Just keep quiet and keep doing your job."  
+> — **Ko Gyeom (Melo Movie)**
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
