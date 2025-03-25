@@ -26,6 +26,7 @@ Check out my projects and let's collaborate!✨
 </div>
 
 
+
 📜 Quote
 > "Everyone will get their golden opportunity. Just keep quiet and keep doing your job."  
 > — **Ko Gyeom (Melo Movie)**
