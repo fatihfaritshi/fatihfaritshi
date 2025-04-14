@@ -21,7 +21,7 @@ Check out my projects and let's collaborate!✨
 <img src="https://raw.githubusercontent.com/fatihfaritshi/fatihfaritshi/main/LABEL.png" width="100%" alt="GitHub Banner">
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihfaritshi&show_icons=true&theme=tokyonight" style="margin-right: 70px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihfaritshi&show_icons=true&theme=tokyonight" style="margin-right: 80px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihfaritshi&layout=compact&theme=radical" style="margin-left: 80px;" />
 </div>
 
