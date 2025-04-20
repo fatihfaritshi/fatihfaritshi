@@ -22,7 +22,7 @@ Check out my projects and let's collaborate!✨
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=fatihfaritshi&show_icons=true&theme=tokyonight" style="margin-right: 90px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihfaritshi&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihfaritshi&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000080&border_color=ffffff" style="margin-left: 90px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihfaritshi&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=001146&border_color=ffffff" style="margin-left: 90px;" />
 </div>
 
 
