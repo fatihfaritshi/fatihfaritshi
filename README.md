@@ -21,8 +21,8 @@ Check out my projects and let's collaborate!✨
 <img src="https://raw.githubusercontent.com/fatihfaritshi/fatihfaritshi/main/LABEL.png" width="100%" alt="GitHub Banner">
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihfaritshi&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0102050&border_color=ffffff" style="margin-right: 90px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihfaritshi&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=102050&border_color=ffffff" style="margin-left: 90px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihfaritshi&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000A2A&border_color=ffffff" style="margin-right: 90px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihfaritshi&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000A2A&border_color=ffffff" style="margin-left: 90px;" />
 </div>
 
 
